@@ -293,10 +293,8 @@ Current test coverage includes:
 
 Current test result:
 
-```text
 8 tests passed
-30+ assertions
-```
+39 assertions
 
 ## Design Decisions and Assumptions
 
